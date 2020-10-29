@@ -1,0 +1,794 @@
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+
+	.header-section{
+		background: url(../img/banner.png) center bottom no-repeat;
+	    background-size: contain;
+	    padding: 5px 0 0px;
+	    background-color: #fff9f3;
+	}
+
+
+	.header-section .navigation .bg-light {
+
+	    text-align: center;
+	}
+  
+	.navbar-light .navbar-nav .nav-link {
+	    font-size: 14px;
+	    padding: 2px 0px;
+	    border: none;
+	}
+
+	.navbar-light .navbar-nav .nav-link:hover{
+		color: #ffc178;
+		border: none;
+	}
+
+	.header-section .btn-info {
+	    display: inline-block;
+	    font-size: 14px;
+	    font-weight: 700;
+	    border-radius: 30px;
+	    padding: 4px 15px;	    
+	    margin-left: 0px;
+	    margin-top: 10px;
+	}
+
+	.navbar-light .navbar-nav .nav-link {
+	    font-size: 15px;
+	    padding: 2px 0px;
+	    border: none;
+	}
+
+	.header-section .banner-inner {
+	    padding: 10px 0 130px;
+	}
+
+	.header-section .banner-inner h1 {
+	    font-size: 20px;
+	    padding-bottom: 5px;
+	    padding-right: 90px;
+	}
+
+	.header-section .banner-inner p {
+	    font-size: 14px;
+	    padding-bottom: 0px;
+	}
+
+	.header-section .btn-info {
+	    font-size: 14px;
+	    padding: 5px 12px;
+	    margin-left: 0px;
+	    margin-top: 0px;
+	    margin-bottom: 15px;
+	}
+
+	.feature-text h2 {
+	    font-size: 28px;
+	    padding-bottom: 8px;
+	}
+
+	.feature-text {
+	    padding: 0px 0 0px;
+	}
+
+	.feature-inner-1 {
+
+	    margin-bottom: 15px;
+	    padding: 30px 10px;
+	}
+
+	.feature-inner-1 img{
+		width: 50%;
+	}
+
+	.feature-inner-2 img{
+		width: 50%;
+	}
+
+	.feature-inner-3 img{
+		width: 50%;
+	}
+
+	.feature-inner-text {
+	    font-size: 20px;
+	    font-weight: 700;
+	    color: #fff;
+	    padding-top: 0px;
+	    padding-bottom: 20px;
+	}
+
+	.feature-inner-2 {
+
+	    margin-bottom: 15px;
+	    padding: 30px 10px;
+	}
+
+	.feature-inner-3 {
+
+	    margin-bottom: 15px;
+	    padding: 30px 10px;
+	}
+
+	.feature-section .col-md-4{
+		padding-right: 20px;
+	    padding-left: 20px;
+	}
+
+	.feature-section {
+	    padding: 0 0 0px;
+	}
+
+
+	.possibilities-section .possibilities-heading h4 {
+	    font-size: 28px;
+	    padding-bottom: 15px;
+	    text-align: center;
+	}
+
+	.possibilities-section .possibilities-heading p {
+	    font-size: 16px;
+	    font-weight: 400;
+	    color: #5a6e79;
+	    padding: 0px 10px;
+	}
+
+	.possibilities-section .possibilities-heading {
+	    padding: 30px 0px 10px;
+	}
+
+	.possibilities-section {
+	    padding: 30px 0 0px;
+	}
+	.portfolio-section {
+	    padding: 10px 0px;
+	}
+
+	.portfolio-section .portfolio-header {
+	    padding-bottom: 20px;
+	}
+
+	.portfolio-section .portfolio-header h1 {
+	    font-size: 23px;
+	    padding-bottom: 0px;
+	}
+
+	.portfolios .img-fluid {
+	    width: 100%;
+	    height: auto;
+	}
+
+	.portfolio-section .port-inn-cont h6 {
+	    margin-bottom: 10px;
+	    line-height: 1.5;
+	}
+
+	.portfolio-section .port-inn-cont p {
+	    margin-bottom: 10px;
+	}
+
+	.footer-section {
+	    padding: 20px 0px 20px;
+	    text-align: center;
+	}
+
+	.footer-section .fontlogos {
+	    padding: 10px 0px;
+	    text-align: center;
+	}
+	.fearured-program h6 {
+	    font-size: 20px;
+	    margin-bottom: 15px;
+	}
+
+	.fearured-program p {
+	    margin-bottom: 10px;
+	}
+
+	.footer-section .Learning-program h6 {
+	    font-size: 20px;
+	    margin-bottom: 15px;
+	}
+
+	
+	.footer-section .Learning-program p {
+	    margin-bottom: 10px;
+	}
+
+	.footer-section .sforum h6 {
+	    font-size: 20px;
+	    margin-bottom: 15px;
+	}
+
+	.footer-last p {
+    	text-align: center;
+	}
+
+	.footer-last .footer-right ul li {
+	    display: inline-block;
+	    font-size: 8px;
+	    margin: 0px 7px;
+	}
+
+	.footer-section .fontlogos ul li {
+    
+    	font-size: 18px;
+	}
+ 
+}
+
+
+
+
+
+
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  	
+	.header-section{
+		background: url(../img/banner.png) center bottom no-repeat;
+	    background-size: contain;
+	    padding: 5px 0 0px;
+	    background-color: #fff9f3;
+	}
+
+
+	.header-section .navigation .bg-light {
+
+	    text-align: center;
+	}
+  
+	.navbar-light .navbar-nav .nav-link {
+	    font-size: 14px;
+	    padding: 2px 0px;
+	    border: none;
+	}
+
+	.navbar-light .navbar-nav .nav-link:hover{
+		color: #ffc178;
+		border: none;
+	}
+
+	.header-section .btn-info {
+	    display: inline-block;
+	    font-size: 14px;
+	    font-weight: 700;
+	    border-radius: 30px;
+	    padding: 4px 15px;	    
+	    margin-left: 0px;
+	    margin-top: 10px;
+	}
+
+	.navbar-light .navbar-nav .nav-link {
+	    font-size: 16px;
+    	padding: 5px 0px;
+	    border: none;
+	}
+	.header-section .banner-inner {
+	    padding: 10px 0 145px;
+	}
+
+	.header-section .banner-inner h1 {
+	    font-size: 35px;
+	    padding-bottom: 5px;
+	}
+
+	.header-section .banner-inner p {
+	    font-size: 16px;
+	    padding-bottom: 0px;
+	}
+
+	.header-section .btn-info {
+	    font-size: 14px;
+	    padding: 6px 15px;
+	    margin-left: 0px;
+	    margin-top: 5px;
+	    margin-bottom: 15px;
+	}
+
+	.feature-text h2 {
+	    font-size: 35px;
+	    padding-bottom: 8px;
+	    margin-top: 30px;
+	}
+
+	.feature-text {
+	    padding: 0px 0 0px;
+	}
+
+	.feature-inner-1 {
+
+	    margin-bottom: 55px;
+	    padding: 50px 10px;
+	}
+
+	.feature-inner-1 img{
+		width: 70%;
+	}
+	.feature-inner-2 img{
+		width: 70%;
+	}
+	.feature-inner-3 img{
+		width: 70%;
+	}
+
+	.feature-inner-text {
+	    font-size: 20px;
+	    font-weight: 700;
+	    color: #fff;
+	    padding-top: 0px;
+	    padding-bottom: 20px;
+	}
+
+	.feature-inner-2 {
+
+	    margin-bottom: 25px;
+	    padding: 50px 10px;
+	}
+
+	.feature-inner-3 {
+
+	    margin-bottom: 15px;
+	    padding: 50px 10px;
+	}
+
+	.feature-section .col-md-4{
+		padding-right: 20px;
+	    padding-left: 20px;
+	}
+
+	.feature-section {
+	    padding: 0 0 0px;
+	}
+
+
+	.possibilities-section .possibilities-heading h4 {
+	    font-size: 35px;
+	    padding-bottom: 15px;
+	    text-align: center;
+	}
+
+	.possibilities-section .possibilities-heading p {
+	    font-size: 16px;
+	    font-weight: 400;
+	    color: #5a6e79;
+	    padding: 0px 10px;
+	}
+
+	.possibilities-section .possibilities-heading {
+	    padding: 30px 0px 10px;
+	}
+
+	.possibilities-section {
+	    padding: 30px 0 0px;
+	}
+	.portfolio-section {
+	    padding: 10px 0px;
+	}
+
+	.portfolio-section .portfolio-header {
+	    padding-bottom: 20px;
+	}
+
+	.portfolio-section .portfolio-header h1 {
+	    font-size: 30px;
+	    padding-bottom: 20px;
+	}
+
+	.portfolios .img-fluid {
+	    width: 100%;
+	    height: auto;
+	}
+
+	.portfolio-section .port-inn-cont h6 {
+	    margin-bottom: 10px;
+	    line-height: 1.5;
+	}
+
+	.portfolio-section .port-inn-cont p {
+	    margin-bottom: 10px;
+	}
+
+	.footer-section {
+	    padding: 40px 0px 20px;
+	    text-align: center;
+	}
+	.footer-section .flogo img {
+	    margin-bottom: 15px;
+	}
+
+	.footer-section .fontlogos {
+	    padding: 10px 0px;
+	    text-align: center;
+	}
+	.fearured-program h6 {
+	    font-size: 20px;
+	    margin-bottom: 15px;
+	}
+
+	.fearured-program p {
+	    margin-bottom: 10px;
+	}
+
+	.footer-section .Learning-program h6 {
+	    font-size: 20px;
+	    margin-bottom: 15px;
+	}
+
+	
+	.footer-section .Learning-program p {
+	    margin-bottom: 10px;
+	}
+
+	.footer-section .sforum h6 {
+	    font-size: 20px;
+	    margin-bottom: 15px;
+	}
+
+	.footer-last p {
+    	text-align: center;
+	}
+
+	.footer-last .footer-right ul {
+	    display: block;
+	    text-align: center;
+	}
+
+	.footer-last .footer-right ul li {
+	    display: inline-block;
+	    font-size: 14px;
+	    margin-left: 15px;
+	}
+
+	.footer-section .fontlogos ul li {
+    
+    	font-size: 18px;
+	}
+  
+}
+
+
+
+
+
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+
+	.header-section{
+		background: url(../img/banner.png) center bottom no-repeat;
+		background-size: contain;
+		padding: 20px 0 0px;
+		background-color: #fff9f3;
+	}
+
+
+	.header-section .navigation .bg-light {
+
+		text-align: center;
+	}
+  
+	.navbar-light .navbar-nav .nav-link {
+		font-size: 14px;
+		padding: 2px 0px;
+		border: none;
+	}
+
+	.navbar-light .navbar-nav .nav-link:hover{
+		color: #ffc178;
+		border: none;
+	}
+
+	.header-section .btn-info {
+		display: inline-block;
+		font-size: 14px;
+		font-weight: 700;
+		border-radius: 30px;
+		padding: 4px 15px;	    
+		margin-left: 0px;
+		margin-top: 10px;
+	}
+
+	.navbar-light .navbar-nav .nav-link {
+		font-size: 16px;
+	   	padding: 5px 0px;
+		border: none;
+	}
+
+	.header-section .banner-inner {
+		padding: 20px 0px 250px 0;
+	}
+
+	.header-section .banner-inner h1 {
+		font-size: 35px;
+		padding-bottom: 5px;
+	}
+
+	.header-section .banner-inner p {
+		font-size: 16px;
+		padding-bottom: 0px;
+	}
+
+	.header-section .btn-info {
+		font-size: 14px;
+		padding: 10px 20px;
+		margin-left: 15px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+
+	.feature-text h2 {
+		font-size: 35px;
+		padding-bottom: 8px;
+		margin-top: 30px;
+	}
+
+	.feature-text {
+		padding: 0px 0 0px;
+	}
+
+	.feature-inner-1 {
+
+		margin-bottom: 55px;
+		padding: 50px 10px;
+	}
+
+	.feature-inner-1 img{
+		width: 80%;
+	}
+
+	.feature-inner-2 img{
+		width: 80%;
+	}
+
+	.feature-inner-3 img{
+		width: 80%;
+	}
+
+	.feature-inner-text {
+		font-size: 20px;
+		font-weight: 700;
+		color: #fff;
+		padding-top: 0px;
+		padding-bottom: 20px;
+	}
+
+	.feature-inner-2 {
+
+		margin-bottom: 25px;
+		padding: 50px 10px;
+	}
+
+	.feature-inner-3 {
+
+		margin-bottom: 15px;
+		padding: 50px 10px;
+	}
+
+	.feature-section .col-md-4 {
+	    padding-right: 10px;
+	    padding-left: 10px;
+	}
+
+	.feature-section {
+		padding: 0 0 0px;
+	}
+
+
+	.portfolio-section .portfolios {
+	    
+		height: 339px;
+	}
+
+
+	.possibilities-section .possibilities-heading h4 {
+		font-size: 35px;
+		padding-bottom: 15px;
+		text-align: center;
+	}
+
+	.possibilities-section .possibilities-heading p {
+		font-size: 16px;
+		font-weight: 400;
+		color: #5a6e79;
+		padding: 0px 10px;
+	}
+
+	.possibilities-section .possibilities-heading {
+	padding: 30px 0px 10px;
+	}
+
+	.possibilities-section {
+	   padding: 30px 0 0px;
+	}
+	.portfolio-section {
+	   padding: 10px 0px;
+	}
+
+	.portfolio-section .portfolio-header {
+	   padding-bottom: 20px;
+	}
+
+	.portfolio-section .portfolio-header h1 {
+	   font-size: 30px;
+	   padding-bottom: 20px;
+	}
+
+	.portfolios .img-fluid {
+	   width: 100%;
+	   height: auto;
+	}
+
+	.portfolio-section .port-inn-cont h6 {
+	   margin-bottom: 10px;
+	   line-height: 1.5;
+	}
+
+	.portfolio-section .port-inn-cont p {
+	   margin-bottom: 10px;
+	}
+
+	.footer-section {
+	   padding: 40px 0px 20px;
+	   text-align: center;
+	}
+	.footer-section .flogo img {
+	   margin-bottom: 15px;
+	}
+
+	.footer-section .fontlogos {
+	   padding: 10px 0px;
+	   text-align: center;
+	}
+	.fearured-program h6 {
+	   font-size: 20px;
+	   margin-bottom: 15px;
+	}
+
+	.fearured-program p {
+	   margin-bottom: 10px;
+	}
+
+	.footer-section .Learning-program h6 {
+	   font-size: 20px;
+	   margin-bottom: 15px;
+	}
+
+	
+	.footer-section .Learning-program p {
+	   margin-bottom: 10px;
+	}
+
+	.footer-section .sforum h6 {
+	   font-size: 20px;
+	   margin-bottom: 15px;
+	}
+
+	.footer-last p {
+    	text-align: center;
+	}
+	
+	.footer-last .footer-right ul {
+	    display: block;
+	    text-align: center;
+	}
+
+	.footer-last .footer-right ul li {
+	   display: inline-block;
+	   font-size: 14px;
+	   margin-left: 15px;
+	}
+
+	.footer-section .fontlogos ul li {
+    
+    	font-size: 18px;
+	}
+
+	.portfolio-section .portfolio-header h1 {
+		font-size: 30px;
+		padding-bottom: 20px;
+		}
+
+	.portfolios .img-fluid {
+		width: 100%;
+		height: auto;
+		}
+
+	.portfolio-section .port-inn-cont h6 {
+		margin-bottom: 10px;
+		line-height: 1.5;
+		}
+
+	.portfolio-section .port-inn-cont p {
+		margin-bottom: 10px;
+		}
+
+	.footer-section {
+		padding: 40px 0px 20px;
+		text-align: center;
+		}
+	.footer-section .flogo img {
+		margin-bottom: 15px;
+		}
+
+	.footer-section .fontlogos {
+		padding: 10px 0px;
+		text-align: center;
+		}
+	.fearured-program h6 {
+		font-size: 20px;
+		margin-bottom: 15px;
+		}
+
+	.fearured-program p {
+		margin-bottom: 10px;
+		}
+
+	.footer-section .Learning-program h6 {
+		font-size: 20px;
+		margin-bottom: 15px;
+		}
+
+		
+	.footer-section .Learning-program p {
+		margin-bottom: 10px;
+		}
+
+	.footer-section .sforum h6 {
+
+		font-size: 20px;
+		margin-bottom: 15px;
+		}
+
+	.footer-last p {
+		text-align: center;
+	}
+
+	.footer-last .footer-right ul {
+		display: block;
+		text-align: center;
+	}
+
+	.footer-last .footer-right ul li {
+		display: inline-block;
+		font-size: 14px;
+		margin-left: 15px;
+	}
+
+	.footer-section .fontlogos ul li {
+	    
+		font-size: 18px;
+	}
+
+	.footer-section .form button {
+		background: #ffc178;
+		border-radius: 5px;
+		border: 1px solid #ffc178;
+		position: absolute;
+		right: 0%;
+		top: 46px;
+		padding: 5px 39px;
+	}
+
+
+
+  
+}
